@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CityInfo.API", "CityInfo.API\CityInfo.API.csproj", "{CADBA984-6E66-4ECC-8471-A09ABDA14EBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CADBA984-6E66-4ECC-8471-A09ABDA14EBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CADBA984-6E66-4ECC-8471-A09ABDA14EBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CADBA984-6E66-4ECC-8471-A09ABDA14EBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CADBA984-6E66-4ECC-8471-A09ABDA14EBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
